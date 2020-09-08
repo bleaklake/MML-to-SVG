@@ -1,4 +1,4 @@
-declare module "MML-to-SVG" {
+declare module "mml-to-svg" {
 
     interface options {
         width?: number,

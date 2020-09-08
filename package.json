@@ -1,6 +1,6 @@
 {
   "name": "mml-to-svg",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description": "The MathJax wrapper to convert MML to SVG",
   "main": "MMLToCHTML.js",
   "keywords": [
